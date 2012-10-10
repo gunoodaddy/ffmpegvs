@@ -10,6 +10,6 @@ You Can Debug ffmpeg.exe!
 
 # Build
 
-  Open build/win32/ffmpeg.sln
-  Build
-  Complete
+	Open build/win32/ffmpeg.sln
+ 	Build
+	Complete
