@@ -16,6 +16,6 @@ based on ffmpeg build from Zeranoe.com
 
 # build
 
-	Open build/win32/ffmpeg.sln
+	Open build/win32/ffmpegvs.sln
  	Build
 	Complete
