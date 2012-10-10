@@ -2,7 +2,7 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="ffmpeg"
+	Name="ffmpegvs"
 	ProjectGUID="{3624EC0A-BB82-4AD6-9FE8-3D53C8D8FC26}"
 	RootNamespace="ffmpeg"
 	Keyword="Win32Proj"
@@ -41,7 +41,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="../../include;../../../Compatibility;../../src"
+				AdditionalIncludeDirectories="../../include;../../Win32;../../src"
 				PreprocessorDefinitions="__STDC_LIMIT_MACROS;WIN32;_DEBUG;_CONSOLE"
 				MinimalRebuild="true"
 				BasicRuntimeChecks="3"
@@ -118,8 +118,8 @@
 				Name="VCCLCompilerTool"
 				Optimization="2"
 				EnableIntrinsicFunctions="true"
-				AdditionalIncludeDirectories="../../include;../../../Compatibility;../../src"
-				PreprocessorDefinitions="WIN32;NDEBUG;_CONSOLE"
+				AdditionalIncludeDirectories="../../include;../../Win32;../../src"
+				PreprocessorDefinitions="__STDC_LIMIT_MACROS;WIN32;NDEBUG;_CONSOLE"
 				RuntimeLibrary="2"
 				EnableFunctionLevelLinking="true"
 				UsePrecompiledHeader="0"
