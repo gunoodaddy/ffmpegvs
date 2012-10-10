@@ -11,7 +11,7 @@ based on ffmpeg build from Zeranoe.com
 # requirements
 
 * Visual Studio 2008
-* ffmpeg shared lib & dev from Zeranoe.com 
+
 
 # build
 
