@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ffmpegvs", "ffmpeg.vcproj", "{3624EC0A-BB82-4AD6-9FE8-3D53C8D8FC26}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ffmpegvs", "ffmpegvs.vcproj", "{3624EC0A-BB82-4AD6-9FE8-3D53C8D8FC26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
