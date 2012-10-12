@@ -137,7 +137,7 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
-				AdditionalDependencies="avcodec.lib avdevice.lib avformat.lib avutil.lib avfilter.lib postproc.lib swscale.lib swresample.lib"
+				AdditionalDependencies="Kernel32.lib Psapi.lib  avcodec.lib avdevice.lib avformat.lib avutil.lib avfilter.lib postproc.lib swscale.lib swresample.lib"
 				LinkIncremental="1"
 				AdditionalLibraryDirectories="../../lib"
 				GenerateDebugInformation="true"
@@ -176,7 +176,7 @@
 			Name="compat_win32"
 			>
 			<File
-				RelativePath="..\..\..\Compatibility\compat_win32.h"
+				RelativePath="..\..\Win32\compat_win32.h"
 				>
 			</File>
 			<File

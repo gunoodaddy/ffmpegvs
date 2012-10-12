@@ -24,8 +24,8 @@
  */
 #if defined(WIN32)
 extern "C" {
-#endif
 #include "compat_win32.h"
+#endif
 #include "config.h"
 #include <ctype.h>
 #include <string.h>

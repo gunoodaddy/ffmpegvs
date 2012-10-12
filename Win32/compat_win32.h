@@ -35,13 +35,22 @@
 #endif /* PRIX64 */
 
 static inline long lrint(double f) { 
-	return (long)f; 
+	return (long)f;		 // TODO
 } 
 
 static inline long int lrintf(float x) {
-	return (int)x;
+	return (int)x;	 // TODO
 }
 
 static inline double log2(double x) {
 	return x; // TODO
 }
+
+static inline double rint(double x) {
+	return x; // TODO
+}
+
+static inline float rintf(float x) {
+	return x; // TODO
+}
+

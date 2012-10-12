@@ -210,7 +210,7 @@
 #define HAVE_ROUND 1
 #define HAVE_ROUNDF 1
 #define HAVE_SCHED_GETAFFINITY 0
-#define HAVE_SDL 0
+#define HAVE_SDL 1
 #define HAVE_SDL_VIDEO_SIZE 0
 #define HAVE_SETMODE 1
 #define HAVE_SETRLIMIT 0
